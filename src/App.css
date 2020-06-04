@@ -1,0 +1,11 @@
+body {
+      font-family: "Open Sans", sans-serif;
+}
+
+
+
+.card-img-overlay {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+    font-family: "Lobster", cursive;
+}
